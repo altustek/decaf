@@ -20,7 +20,8 @@ copyright = "&copy; {year} AltusTek LLC"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+#theme = "academic"
+theme = "blank"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
