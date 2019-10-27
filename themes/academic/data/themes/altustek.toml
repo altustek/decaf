@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Altustek"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#0166ff"
+#A = #0166ff https://www.colorabout.com/color/hex/0166ff/
+#T - 01d455 https://www.colorabout.com/color/hex/01d455/
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#002966"
+menu_text_active = "#01aa44"
+menu_title = "#002966"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
