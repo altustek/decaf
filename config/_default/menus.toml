@@ -14,19 +14,9 @@
   weight = 05
 
 [[main]]
-  name = "Posts"
+  name = "Blog"
   url = "#40-posts"
   weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#50-projects"
-  weight = 30
-
-[[main]]
-  name = "About"
-  url = "#60-about"
-  weight = 40
 
 [[main]]
   name = "Contact"
