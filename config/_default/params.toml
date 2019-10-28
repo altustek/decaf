@@ -267,3 +267,4 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  hubspot_code = "6633760"
