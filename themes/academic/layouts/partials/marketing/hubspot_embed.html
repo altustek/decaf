@@ -1,4 +1,4 @@
-{{ if site.Params.marketing.hubspot_code }}
+{{ if eq (getenv "HUGO_ENV") "production" | and site.Params.marketing.hubspot_code }}
 <!-- Start of HubSpot Embed Code -->
 	<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/{{site.Params.marketing.hubspot_code}}.js"></script>
 <!-- End of HubSpot Embed Code -->
