@@ -14,10 +14,12 @@ role: Principal
 
 # Organizations/Affiliations
 organizations:
-- name: Altustek
-  url: "http://www.altustek.com/"
 - name: IEEE
-  url: "http://www.ieee.org/"
+  url: "https://www.ieee.org/"
+- name: TiE Boston
+  url: "https://boston.tie.org/"
+- name: IITAGNE
+  url: "https://www.iitagne.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -44,13 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:gene@altustek.com".
+  link: 'mailto:gene@altustek.com?subject=[AltusWebProfile]'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ememare
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MayurRajwadkar
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ememare/
+- icon: phone
+  icon_pack: fas
+  link: 'tel:+16266298767'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -60,6 +65,19 @@ social:
 user_groups:
 - Consultants
 ---
+
+Mayuresh (Gene) is the founder and principal of Altustek LLC. 
+ 
+A problem solver in electronic design automation, digital design, linux systems and applications. An expert at solving and navigating through hard situations and problems with innovative ideas, approaches and grit. A community organizer & networker experienced with forging and building partnerships in diversity. A lifelong learner with a recent MBA looking for opportunities to use the learning it in the field. Looking to build sustainable business models and relationships.
+
+SKILL SET:
+Global Management | Project Management | Product Pricing | Digital Transformation | Technology M&A (Mergers and Acquisitions)
+TOOLS :
+Business | Hubspot CRM | mailchimp | waveapps
+Data Analytics | R | Knime | Alteryx | tableau
+Content Authoring | Wordpress | balsamiq
+Others | slack | macOS |
+
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
