@@ -20,7 +20,7 @@ Any personal or other information we collect that can be used to uniquely identi
 
 ## How this Privacy Policy Affects You
 
-###Purpose: 
+### Purpose: 
 The purpose of this Privacy Policy is to clearly and concisely inform users of and visitors (“you” or “your”) to the Sites of: (1) the information that we collect through the Sites; (2) how we use that information; (3) how we protect that information; (4) what, if any, information we may share and with whom; (5) and how you can review your Personally Identifiable Information (“PII”) collected through the Sites and request modifications and corrections. Please take a moment to read this Privacy Policy to learn how we handle your personal information. In addition, this Privacy Policy clearly explains the steps that you should take if you desire to opt- out of our personal information collection process and how to review and request modification of your personal information that the Company may have collected.
 
 ## Information We Collect
