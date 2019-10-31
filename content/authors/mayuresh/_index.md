@@ -66,19 +66,5 @@ user_groups:
 - Consultants
 ---
 
-Mayuresh (Gene) is the founder and principal of Altustek LLC. 
- 
-A problem solver in electronic design automation, digital design, linux systems and applications. An expert at solving and navigating through hard situations and problems with innovative ideas, approaches and grit. A community organizer & networker experienced with forging and building partnerships in diversity. A lifelong learner with a recent MBA looking for opportunities to use the learning it in the field. Looking to build sustainable business models and relationships.
-
-SKILL SET:
-Global Management | Project Management | Product Pricing | Digital Transformation | Technology M&A (Mergers and Acquisitions)
-TOOLS :
-Business | Hubspot CRM | mailchimp | waveapps
-Data Analytics | R | Knime | Alteryx | tableau
-Content Authoring | Wordpress | balsamiq
-Others | slack | macOS |
-
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Mayuresh (Gene) is the founder and principal of Altustek LLC. His interests are in Venture Capital and early stage investing in technology companies and currently works and invests with [TiE Boston Angels](https://boston.tie.org/tiebostonangels/). His current technical interests are in using AI/ML in Electronic Design Automation (EDA) and learning about opportunities in the [RISC-V](https://www.riscv.org) space.  
+Mayuresh has worked for 20 years in the semiconductor industry, mostly with [Analog Devices](https://www.analog.com) [(ADI)](https://finance.yahoo.com/quote/ADI/) as a Digital Physical Design Engineer(PD) and an EDA expert at its offices in San Jose CA, Austin TX and Norwood MA. Mayuresh also has been a Linux enthusiast for over 20 years and has hands on application expertise in various flavors of linux and its applications from embedded devices to data centers.  
