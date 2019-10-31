@@ -25,10 +25,12 @@ organizations:
 bio: 
 
 interests:
-- ASIC Design
-- Electronic Design Automation (EDA)
-- AI & ML for EDA
+- Venture Capital (Technology) 
+- Strategy 
 - Electronic Systems & IOT
+- RISC-V & OpenHW
+- ASIC Design & Electronic Design Automation (EDA)
+- AI/ML for EDA
 
 education:
   courses:
@@ -66,5 +68,5 @@ user_groups:
 - Consultants
 ---
 
-Mayuresh (Gene) is the founder and principal of Altustek LLC. His interests are in Venture Capital and early stage investing in technology companies and currently works and invests with [TiE Boston Angels](https://boston.tie.org/tiebostonangels/). His current technical interests are in using AI/ML in Electronic Design Automation (EDA) and learning about opportunities in the [RISC-V](https://www.riscv.org) space.  
+Mayuresh (Gene) is the founder and principal of Altustek LLC. His interests are in Venture Capital and early stage investing in technology companies and currently works and invests with [TiE Boston Angels](https://boston.tie.org/tiebostonangels/). 
 Mayuresh has worked for 20 years in the semiconductor industry, mostly with [Analog Devices](https://www.analog.com) [(ADI)](https://finance.yahoo.com/quote/ADI/) as a Digital Physical Design Engineer(PD) and an EDA expert at its offices in San Jose CA, Austin TX and Norwood MA. Mayuresh also has been a Linux enthusiast for over 20 years and has hands on application expertise in various flavors of linux and its applications from embedded devices to data centers.  
