@@ -9,6 +9,9 @@ title = "Management Consulting"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "AltusTek.png"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.

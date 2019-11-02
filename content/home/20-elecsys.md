@@ -13,16 +13,21 @@
 #widget = slider
 #widget = tag_cloud
 
-# Hero widget.
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Electronic Systems"
+subtitle = ""
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-#hero_media = "AltusTek.png"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -31,48 +36,77 @@ title = "Electronic Systems"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "white"
+  # color = "navy"
   
   # Background gradient.
-# https://hookagency.com/wp-content/uploads/2018/09/soft-blue-green-palette.jpg.webp
-# Green Mountain: #3d7c47
-# Blue Mountain: #09868b
-# Light Blue Backdrop: #76c1d4
-# Barely Gray Edge: #f7f7f7
-
-#  gradient_start = "#3d7c47"
-#  gradient_end = "#09868b"
-#  gradient_start = "#09868b"
-#  gradient_end = "#3d7c47"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+#  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+#  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+#  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-#  text_color_light = true
+  text_color_light = true
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-#mr [cta]
-#mr   url = "https://sourcethemes.com/academic/docs/install/"
-#mr   label = "Get Started"
-#mr   icon_pack = "fas"
-#mr   icon = "download"
-#mr   
-#mr [cta_alt]
-#mr   url = "https://sourcethemes.com/academic/"
-#mr   label = "View Documentation"
-#mr 
-#mr # Note. An optional note to show underneath the links.
-#mr [cta_note]
-#mr   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+[advanced]
+# # Custom CSS. 
+# css_style = ""
+ 
+ # CSS class.
+# css_class = ""
 +++
 
-Our PCB Design environment uses best in industry tools like Mentor Graphics, Cadence and Altium for design capture, PCB layout and design analysis.
-We are customer centric and deliver high quality multi layer high-speed PCB designs, taking into consideration of real-world manufacturing and test requirements. Our PCB design services includes:
+Altustek represents electronics system design and ISO 9001:2015 certified manufacturing partners based in India. Our current portfolio includes everything from edge devices to complete systems.  We offer customized and complete turnkey solutions for digital transformation for businesses moving to Industry 4.0. Our current portfolio has a wide spectrum of solutions and applications.
 
+<table>
+<tr><th> Industry 4.0 </th><th> Solutions & Products </th><th> Edge Devices</th></tr>
+<tr><td>
+<ul>
+<li> Wireless SCADA                                
+<li> Cloud based Security & Surveillance           
+<li> Data Acquisition Systems                      
+<li> Telecom Tower Remote Monitoring               
+<li> Energy Management Gateway                     
+<li> Automatic Meter Reading                       
+<li> Air/ Water Quality Monitoring Systems         
+<li> Modbus to MQTT GPRS RT                        
+<li> Industrial IoT Devices (Lora, Sigfox, Zigbee) 
+<li> Wireless (BT, WiFi, GPRS) Weighing scale      
+<li> Agri-Electronics Products                     
+<li> Optical Sensor interrogation System           
+<li> Automotive Control & Infotainment             
+<li> Multi-Alarm Automatic Shutdown Unit           
+<li> Security Motion detector & Alarm System       
+<li> Wearable Electronics                          
+<li> Wireless Sensors                              
+</ul>
+</td><td>
+<li> School & Personnel Attendance System          
+<li> Personnel & Asset Tracker                     
+<li> Real Time Location System (RFID, GPS)         
+<li> RFID Reader                                   
+<li> RFID tags (Buzzer, Vibrator, LED, Display)    
+<li> Solar & Wireless Battery Charging Solutions   
+<li> Single Board Computers, System on Modules     
+<li> Data Conv. ( RS232/RS485, Ethernet, Optical)  
+<li> Active Noise Cancelling Headphone             
+<li> Industrial controller cards                   
+<li> Radioactive Elements Analysis Systems         
+<li> Wireless Connectivity Solution                
+</td><td>  
+<li> Quark Open-WRT Router & Access Point
+<li> Content Play Media & Storage Devices
+<li> Wireless IoT Gateway 
+</td></tr>
+</table>
 
 <!--
 **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**

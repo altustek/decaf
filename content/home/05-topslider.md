@@ -25,7 +25,9 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-#height = ""
+#height = 500px
+#height = "`calc(100vh)`"
+
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -50,7 +52,7 @@ interval = 5000
 
 [[item]]
   title = "Electronic Systems "
-  content = "IOT and Electronic System Design & Manufacturing" 
+  content = "Turnkey solutions for Industry 4.0 <br/> Electronic systems design and manufacturing in INDIA <br/>for IoT, Telematics, Energy Management and Medical applications."
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -66,8 +68,8 @@ interval = 5000
   cta_icon = "microchip"
 
 [[item]]
-  title = "Management Consulting"
-  content = "Management Consulting for Hi-Tech Industries and Life Sciences"
+  title = "Consulting"
+  content = "Management Consulting for Hi-Tech Industries"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
