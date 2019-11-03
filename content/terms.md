@@ -1,6 +1,6 @@
 ---
-title: Terms
-date: "2019-11-04T00:00:00+01:00"
+title: Terms of Use
+date: "2019-11-03T00:00:00+01:00"
 draft: false
 share: false
 commentable: false
@@ -11,8 +11,6 @@ header:
   caption: ""
   image: ""
 ---
-
-TERMS OF USE
 
 Last updated November 04, 2019 
  
@@ -176,10 +174,8 @@ CONTACT US
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
  
 Altustek LLC     
-8 The Green Ste B
-Dover DE 19901
-United States
-Phone: 626-629-8767
+8 The Green Ste B \\
+Dover DE 19901 \\
+United States \\
 Email: info-web@altustek.com
 
-...

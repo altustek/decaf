@@ -100,5 +100,13 @@ We reserve the right to change this Privacy Policy and the terms, conditions, an
 
 The Company may, from time to time, post notices on The Sites or mobile applications if the Company believes, in its sole discretion, that it has made material changes to this Privacy Policy.
 
+## Contact Us 
+ 
+In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
+ 
+Altustek LLC     
+8 The Green Ste B \\
+Dover DE 19901 \\
+United States \\
+Email: info-web@altustek.com
 
-...
