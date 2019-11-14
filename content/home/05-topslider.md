@@ -33,7 +33,8 @@ interval = 5000
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "SOC & ASIC"
-  content = "ASIC Design and automation services in the Greater Boston area" 
+  content = "Full Integrated Circuit (IC) design from concept to silicon:<br/>Complex ASIC, SoC and FPGA design, Design Verification, Silicon Validation, DFT Services, Fabless Manufacturing and more!"
+
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

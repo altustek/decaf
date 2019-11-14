@@ -105,6 +105,22 @@
       </li>
       {{ end }}
 
+    <div> <p>&nbsp;</p> </div>
+
+    {{ if and site.Params.map.engine $data.coordinates.latitude }}
+    <div class="d-none">
+      <input id="map-provider" value="{{ site.Params.map.engine }}">
+      <input id="map-lat" value="{{ $data.coordinates.latitude }}">
+      <input id="map-lng" value="{{ $data.coordinates.longitude }}">
+      <input id="map-dir" value="{{ $addr_formatted }}">
+      <input id="map-zoom" value="{{ site.Params.map.zoom | default "15" }}">
+      <input id="map-api-key" value="{{ site.Params.map.api_key }}">
+    </div>
+    <div id="map"></div>
+    {{ end }}
+
+    <div> <p>&nbsp;</p> </div>
+
       {{/* Contact links. */}}
       {{ range $data.contact_links }}
       {{ $pack := or .icon_pack "fas" }}
@@ -120,25 +136,17 @@
       {{ else if in (slice "http" "https") $scheme }}
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
-      <li>
-        <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
-        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
+      <!-- {{ $lastPartOnly := last 1 (split (delimit (split (urls.Parse $link).Path "/") "," "") ",")  }} -->
+      {{ $lastPartOnlyURL := delimit (last 1 (split (urls.Parse $link).Path "/")) ","  }}
+      <li style="display:inline; white-space: nowrap;">
+		      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} style="text-decoration:none;"> 
+	      <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
+			     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
       </li>
+      <!--{{ $lastPartOnlyURL|markdownify|emojify|safeHTML}}</a>-->
       {{ end }}
 
     </ul>
-
-    {{ if and site.Params.map.engine $data.coordinates.latitude }}
-    <div class="d-none">
-      <input id="map-provider" value="{{ site.Params.map.engine }}">
-      <input id="map-lat" value="{{ $data.coordinates.latitude }}">
-      <input id="map-lng" value="{{ $data.coordinates.longitude }}">
-      <input id="map-dir" value="{{ $addr_formatted }}">
-      <input id="map-zoom" value="{{ site.Params.map.zoom | default "15" }}">
-      <input id="map-api-key" value="{{ site.Params.map.api_key }}">
-    </div>
-    <div id="map"></div>
-    {{ end }}
 
   </div>
 </div>

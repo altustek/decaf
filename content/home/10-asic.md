@@ -74,17 +74,8 @@ title = "ASIC Design"
 #mr [cta_note]
 #mr   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+Altustek is a world-class provider of ASIC, SoC and FPGA design services. We offer a wide range of services tailored to meet your project needs and product constraints in terms of cost, performance, power consumption and time to market.
+Our capabilities cover the entire IC design spectrum, from concept to silicon, using the latest design methodologies and EDA tools, the integration of third party IPs / cores, reuse of existing IPs and legacy components,. across a wide range of semiconductor process technology nodes.
 
-Altustek tackles complex multi-processor digital SoC and FPGA design using its
-ready-to-go platform IP, a rigorous process of metrics-based verification, and
-a seasoned team of experienced people.  With hundreds of completed SoCs in
-production from Altustek customers, we can help you from start to finish –
-click here to learn more about our unique approach to SoC and FPGA design.
+We provide flexible engagement models, from on-site support to outsourcing from an international network of design centers in India and in the US, resulting in cost-effective semiconductor design services.
 
-<!--
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> 
---> 
