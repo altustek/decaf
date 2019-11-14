@@ -13,10 +13,10 @@
   url = "#10-asic"
   weight = 05
 
-[[main]]
-  name = "Blog"
-  url = "#40-posts"
-  weight = 20
+#[[main]]
+#  name = "Blog"
+#  url = "#40-posts"
+#  weight = 20
 
 [[main]]
   name = "Contact"
