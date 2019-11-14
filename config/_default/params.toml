@@ -59,7 +59,9 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "AltusTek-Logo-Two.png"
+#logo = "AltusTek-Logo-Two.png"
+logo = "AltusTek-RGB-128.png"
+#d50078
 
 ############################
 ## Site Features
