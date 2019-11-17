@@ -21,7 +21,7 @@ weight = 5  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = 7000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -70,7 +70,7 @@ interval = 5000
 
 [[item]]
   title = "Consulting"
-  content = "Management Consulting for Hi-Tech Industries"
+  content = "Services in all aspects of businesses operations and management. We are a network of partners who have extensive experience in general business development but yet more focused on technology businesses. "
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.

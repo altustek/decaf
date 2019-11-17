@@ -1,5 +1,4 @@
 +++
-# Hero widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -7,8 +6,6 @@ weight = 30  # Order that this section will appear.
 
 title = "Management Consulting"
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-#hero_media = "AltusTek.png"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -41,31 +38,13 @@ title = "Management Consulting"
   # Text color (true=light or false=dark).
 #  text_color_light = true
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-#mr [cta]
-#mr   url = "https://sourcethemes.com/academic/docs/install/"
-#mr   label = "Get Started"
-#mr   icon_pack = "fas"
-#mr   icon = "download"
-#mr   
-#mr [cta_alt]
-#mr   url = "https://sourcethemes.com/academic/"
-#mr   label = "View Documentation"
-#mr 
-#mr # Note. An optional note to show underneath the links.
-#mr [cta_note]
-#mr   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+### Strategy
+We work closely with our clients to understand their business model in great detail. We enlist understand and prioritize the problems they have at hand, and workout a smart strategic plan to meet their financial goals. 
 
-** THE MAIN CONTENT FOR THE FIRST FOLD **
+### Digital Marketing
+We have expertise in designing and targeting a comprehensive digital marketing strategy for our clients through web design, SEO and social media marketing. 
 
+### Partners
+We also have a network of partners who have extensive experience in the technology industry and can provide other services through them. 
 
-<!--
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> 
---> 
