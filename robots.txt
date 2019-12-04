@@ -1,5 +1,6 @@
+User-agent: Seobility
+Disallow:
+
 User-agent: *
 Disallow: /
 
-User-agent: Seobility
-Disallow:
