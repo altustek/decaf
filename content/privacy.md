@@ -102,7 +102,7 @@ The Company may, from time to time, post notices on The Sites or mobile applicat
 
 ## Contact Us 
  
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
+In  order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
  
 Altustek LLC     
 8 The Green Ste B \\
