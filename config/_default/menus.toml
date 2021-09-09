@@ -6,7 +6,7 @@
 [[main]]
   name = "Home"
   url = "#05-topslider"
-  weight = 01
+#  weight = 01
 
 [[main]]
   name = "Services"
