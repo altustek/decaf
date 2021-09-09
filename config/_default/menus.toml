@@ -9,8 +9,8 @@
 #  weight = 01
 
 [[main]]
-  name = "Services"
-  url = "#10-asic"
+  name = "Consulting"
+  url = "#30-mgmcon"
 #  weight = 05
 
 #[[main]]
@@ -23,23 +23,6 @@
   url = "#70-contact"
 #  weight = 50
 
-[[main]]
-  parent = "Services"
-  name = "ASIC"
-  url = "#10-asic"
-#  weight = 05
-
-[[main]]
-  parent = "Services"
-  name = "Systems"
-  url = "#20-elecsys"
-#  weight = 10
-
-[[main]]
-  parent = "Services"
-  name = "Consulting"
-  url = "#30-mgmcon"
-#  weight = 15
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
