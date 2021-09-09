@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal and this is such a big one
+role: Principal 
 
 # Organizations/Affiliations
 organizations:
